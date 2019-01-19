@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tv_item_genre"
+    android:layout_width="50dp"
+    android:layout_height="30dp"
+    android:text="@string/beer"
+    android:textSize="16sp"
+    android:fontFamily="@font/montserrat"
+    android:textColor="@color/geyser"
+    android:background="@color/black">
+
+
+</TextView>

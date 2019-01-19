@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HipbarHomeScreen</string>
+    <string name="bengaluru">BENGALURU (SELF PICKUP ONLY)</string>
+    <string name="addorselect">Add or select a location/address</string>
+    <string name="beer">Beer</string>
+    <string name="champagne">Champ</string>
+</resources>
